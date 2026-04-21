@@ -1,0 +1,11 @@
+body {
+  font-family: monospace;
+  text-align: center;
+}
+
+#grid span {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border: 1px solid black;
+}
